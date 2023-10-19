@@ -1,0 +1,9 @@
+﻿  源.cpp
+D:\C++\homework\Project13\源.cpp(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\C++\homework\Project13\源.cpp(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\C++\homework\Project13\源.cpp(9,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++\homework\Project13\源.cpp(67,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++\homework\Project13\源.cpp(68,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++\homework\Project13\源.cpp(114,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++\homework\Project13\源.cpp(115,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project13.vcxproj -> D:\C++\homework\x64\Debug\Project13.exe
